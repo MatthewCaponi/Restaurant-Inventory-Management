@@ -1,0 +1,115 @@
+#INGREDIENTS
+potato,1.5,21,0
+mayonaisse,3,30,0
+onion,.25,30,0
+black beans,1.0,360,0
+cilantro,.50,7,0
+pepper,1.0,14,0
+garlic,.25,30,0
+#MENU_ITEMS
+Potato Salad,5.5,potato,2,mayonaisse,1,onion,1
+Black Bean Soup,4.25,black beans,3,cilantro,1,pepper,2,garlic,2
+#010162017
+potato,30
+mayonaisse,30
+onion,30
+black beans,30
+cilantro,30
+pepper,30
+garlic,30
+#110162017
+potato,2
+mayonaisse,2
+onion,2
+black beans,2
+cilantro,2
+pepper,2
+garlic,2
+#410162017
+Potato Salad,3
+Black Bean Soup,3
+#210162017
+potato,22
+mayonaisse,25
+onion,25
+black beans,19
+cilantro,25
+pepper,22
+garlic,22
+#310162017
+potato,4
+mayonaisse,1
+onion,1
+black beans,7
+cilantro,1
+pepper,4
+garlic,4
+#010232017
+potato,25
+mayonaisse,24
+onion,17
+black beans,25
+cilantro,23
+pepper,36
+garlic,53
+#110232017
+potato,2
+mayonaisse,4
+onion,5
+black beans,2
+cilantro,4
+pepper,3
+garlic,6
+#410232017
+Potato Salad,1
+Black Bean Soup,4
+#210232017
+potato,21
+mayonaisse,19
+onion,11
+black beans,11
+cilantro,15
+pepper,25
+garlic,39
+#310232017
+potato,0
+mayonaisse,0
+onion,0
+black beans,10
+cilantro,0
+pepper,5
+garlic,2
+#010302017
+potato,2
+mayonaisse,4
+onion,6
+black beans,2
+cilantro,6
+pepper,7
+garlic,2
+#110302017
+potato,0
+mayonaisse,0
+onion,0
+black beans,0
+cilantro,0
+pepper,0
+garlic,0
+#410302017
+Potato Salad,1
+Black Bean Soup,1
+#210302017
+potato,2
+mayonaisse,4
+onion,6
+black beans,2
+cilantro,6
+pepper,7
+garlic,2
+#310302017
+potato,0
+mayonaisse,0
+onion,0
+black beans,0
+cilantro,0
+pepper,0

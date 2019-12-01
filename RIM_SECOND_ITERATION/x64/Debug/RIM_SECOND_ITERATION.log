@@ -1,0 +1,33 @@
+﻿  AllInventoryHistory.cpp
+  AllSalesHistory.cpp
+  CommentsDelete.cpp
+  CommentsSubmissions.cpp
+  CommentsView.cpp
+  CurrentDatabase.cpp
+  CurrentDatabaseMenu.cpp
+  Database.cpp
+  Date.cpp
+  EditSingleWeekInventoryHistory.cpp
+  EditSingleWeekSalesHistory.cpp
+  Ingredient.cpp
+  InventoryDatabase.cpp
+  LongTermDatabaseMenu.cpp
+  MainMenu.cpp
+c:\users\matt\documents\internships\github\restaurant inventory management\rim_second_iteration\mainmenu.cpp(78): warning C4129: ' ': unrecognized character escape sequence
+  MenuItem.cpp
+  OrderDatabase.cpp
+  OrderReport.cpp
+  RestaurantMenuAndInventoryView.cpp
+  SalesDatabase.cpp
+  Generating Code...
+  Compiling...
+  Shipment.cpp
+  ShipmentGroup.cpp
+  CommentsBoardMenu.cpp
+  SingleWeekInventoryHistory.cpp
+  SingleWeekSalesHistory.cpp
+  Test.cpp
+  WasteDatabase.cpp
+  WasteReport.cpp
+  Generating Code...
+  RIM_SECOND_ITERATION.vcxproj -> C:\Users\Matt\Documents\Internships\GitHub\Restaurant Inventory Management\x64\Debug\RIM_THIRD_ITERATION.exe

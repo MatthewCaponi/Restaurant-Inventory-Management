@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\DisplayClasses">
+      <UniqueIdentifier>{8ddf34dd-a936-46de-b87b-5d021814c931}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\DataClasses">
+      <UniqueIdentifier>{35f438ac-7896-4d77-b1db-dcfe32fa0d26}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\DisplayClasses">
+      <UniqueIdentifier>{7189539c-d5ac-47a1-981a-16dca5377f61}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\DataClasses">
+      <UniqueIdentifier>{fffede4f-334b-490c-b33c-51f265016f18}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\MiscClasses">
+      <UniqueIdentifier>{d9f508b3-abf8-4f39-82cb-21d9e76975cc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\MiscClasses">
+      <UniqueIdentifier>{0327caec-9899-4c15-9aa8-f221ddacc0a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\IOClasses">
+      <UniqueIdentifier>{a7a1493b-d53a-4469-bff0-57e258d34c2f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Data.h">
+      <Filter>Header Files\DataClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="Database.h">
+      <Filter>Header Files\DataClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="Display.h">
+      <Filter>Header Files\DisplayClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="Ingredient.h">
+      <Filter>Header Files\DataClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="MainMenu.h">
+      <Filter>Header Files\DisplayClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuItem.h">
+      <Filter>Header Files\DataClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="Shipment.h">
+      <Filter>Header Files\DataClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="ShipmentGroup.h">
+      <Filter>Header Files\DataClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="Date.h">
+      <Filter>Header Files\MiscClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="LongTermDatabaseMenu.h">
+      <Filter>Header Files\DisplayClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="CurrentDatabaseMenu.h">
+      <Filter>Header Files\DisplayClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="CurrentDatabase.h">
+      <Filter>Header Files\DisplayClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="OrderReport.h">
+      <Filter>Header Files\DisplayClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="WasteReport.h">
+      <Filter>Header Files\DisplayClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="Comment.h">
+      <Filter>Header Files\MiscClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="CommentsBoardMenu.h">
+      <Filter>Header Files\DisplayClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="CommentsSubmission.h">
+      <Filter>Header Files\DisplayClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="CommentsView.h">
+      <Filter>Header Files\DisplayClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="EmployeeCommentsIO.h">
+      <Filter>Header Files\IOClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="DataIO.h">
+      <Filter>Header Files\IOClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="InventoryDatabase.h">
+      <Filter>Header Files\DisplayClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="SalesDatabase.h">
+      <Filter>Header Files\DisplayClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="WasteDatabase.h">
+      <Filter>Header Files\DisplayClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="OrderDatabase.h">
+      <Filter>Header Files\DisplayClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="CommentsDelete.h">
+      <Filter>Header Files\DisplayClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="AllInventoryHistory.h">
+      <Filter>Header Files\DisplayClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="SingleWeekInventoryHistory.h">
+      <Filter>Header Files\DisplayClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="AllSalesHistory.h">
+      <Filter>Header Files\DisplayClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="SingleWeekSalesHistory.h">
+      <Filter>Header Files\DisplayClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="EditSingleWeekInventoryHistory.h">
+      <Filter>Header Files\DisplayClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="EditSingleWeekSalesHistory.h">
+      <Filter>Header Files\DisplayClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="RestaurantMenuAndInventoryView.h">
+      <Filter>Header Files\DisplayClasses</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Database.cpp">
+      <Filter>Source Files\DataClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="Date.cpp">
+      <Filter>Source Files\MiscClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="Ingredient.cpp">
+      <Filter>Source Files\DataClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="MainMenu.cpp">
+      <Filter>Source Files\DisplayClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="Shipment.cpp">
+      <Filter>Source Files\DataClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuItem.cpp">
+      <Filter>Source Files\DataClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="ShipmentGroup.cpp">
+      <Filter>Source Files\DataClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="Test.cpp">
+      <Filter>Source Files\MiscClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="LongTermDatabaseMenu.cpp">
+      <Filter>Source Files\DisplayClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="CurrentDatabaseMenu.cpp">
+      <Filter>Source Files\DisplayClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="CurrentDatabase.cpp">
+      <Filter>Source Files\DisplayClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="WasteReport.cpp">
+      <Filter>Source Files\DisplayClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="OrderReport.cpp">
+      <Filter>Source Files\DisplayClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="CommentsBoardMenu.cpp">
+      <Filter>Source Files\DisplayClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="CommentsView.cpp">
+      <Filter>Source Files\DisplayClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="CommentsSubmissions.cpp">
+      <Filter>Source Files\DisplayClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="InventoryDatabase.cpp">
+      <Filter>Source Files\DisplayClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="SalesDatabase.cpp">
+      <Filter>Source Files\DisplayClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="OrderDatabase.cpp">
+      <Filter>Source Files\DisplayClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="WasteDatabase.cpp">
+      <Filter>Source Files\DisplayClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="CommentsDelete.cpp">
+      <Filter>Source Files\DisplayClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="AllInventoryHistory.cpp">
+      <Filter>Source Files\DisplayClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="SingleWeekInventoryHistory.cpp">
+      <Filter>Source Files\DisplayClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="AllSalesHistory.cpp">
+      <Filter>Source Files\DisplayClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="SingleWeekSalesHistory.cpp">
+      <Filter>Source Files\DisplayClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="EditSingleWeekInventoryHistory.cpp">
+      <Filter>Source Files\DisplayClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="EditSingleWeekSalesHistory.cpp">
+      <Filter>Source Files\DisplayClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="RestaurantMenuAndInventoryView.cpp">
+      <Filter>Source Files\DisplayClasses</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="EmployeeComments.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Data.csv">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>
